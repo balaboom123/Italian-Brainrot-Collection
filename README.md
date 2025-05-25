@@ -1,4 +1,4 @@
-# Italian-Brainrot-Collection
+# Awesome-Italian-Brainrot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This is a collection to restore all the Italian brainrot. 
 
 ## Characters
@@ -69,7 +69,7 @@ This is a collection to restore all the Italian brainrot.
 |-----------|-------|-|-----------|-------|-|-------------|---------|
 | [ta ta ta ta ta ta ta ta ta ta ta sahur](ta%20ta%20ta%20ta%20ta%20ta%20ta%20ta%20ta%20ta%20ta%20sahur) | <img src="ta ta ta ta ta ta ta ta ta ta ta sahur/ta ta ta ta ta ta ta ta ta ta ta sahur (namu.wiki).webp" width="100"> | | [tigroligre frutonni](tigroligre%20frutonni) | <img src="tigroligre frutonni/tigroligre frutonni (namu.wiki).webp" width="100"> | | [tigrrullini watermellini](tigrrullini%20watermellini) | <img src="tigrrullini watermellini/tigrrullini watermellini (namu.wiki).webp" width="100"> |
 | [tracotucotulu delapeladustuz](tracotucotulu%20delapeladustuz) | <img src="tracotucotulu delapeladustuz/tracotucotulu delapeladustuz (namu.wiki).webp" width="100"> | | [tralalero tralala](tralalero%20tralala) | <img src="tralalero tralala/tralalero tralala (fandom).webp" width="100"> | | [tric trac baraboom](tric%20trac%20baraboom) | <img src="tric trac baraboom/tric trac baraboom (namu.wiki).webp" width="100"> |
-| [trippa troppa tralala lirilì rilà tung tung sahur boneca tung tung tralalelo trippi troppa crocodina](trippa%20troppa%20tralala%20lirilì%20rilà%20tung%20tung%20sahur%20boneca%20tung%20tung%20tralalelo%20trippi%20troppa%20crocodina) | <img src="trippa troppa tralala lirilì rilà tung tung sahur boneca tung tung tralalelo trippi troppa crocodina/trippa troppa tralala lirilì rilà tung tung sahur boneca tung tung tralalelo trippi troppa crocodina (namu.wiki).webp" width="100"> | | [trippi troppi](trippi%20troppi) | <img src="trippi troppi/trippi troppi (fandom).webp" width="100"> | | [trullimero trullicina](trullimero%20trullicina) | <img src="trullimero trullicina/trullimero trullicina (fandom).webp" width="100"> |
+| [trippa troppa tralala lirilì rilà tung tung sahur boneca tung tralalelo trippi troppa crocodina](trippa%20troppa%20tralala%20lirilì%20rilà%20tung%20tung%20sahur%20boneca%20tung%20tung%20tralalelo%20trippi%20troppa%20crocodina) | <img src="trippa troppa tralala lirilì rilà tung sahur boneca tung tralalelo trippi troppa crocodina/trippa troppa tralala lirilì rilà tung sahur boneca tung tralalelo trippi troppa crocodina (namu.wiki).webp" width="100"> | | [trippi troppi](trippi%20troppi) | <img src="trippi troppi/trippi troppi (fandom).webp" width="100"> | | [trullimero trullicina](trullimero%20trullicina) | <img src="trullimero trullicina/trullimero trullicina (fandom).webp" width="100"> |
 | [tung tung tung sahur](tung%20tung%20tung%20sahur) | <img src="tung tung tung sahur/tung tung tung sahur (fandom).webp" width="100"> | | [tung tung tung tung tung tung tung tung tung assassino boneca](tung%20tung%20tung%20tung%20tung%20tung%20tung%20tung%20tung%20assassino%20boneca) | <img src="tung tung tung tung tung tung tung tung tung assassino boneca/tung tung tung tung tung tung tung tung tung assassino boneca (namu.wiki).webp" width="100"> | | | |
 
 ### U
@@ -81,3 +81,6 @@ This is a collection to restore all the Italian brainrot.
 | Character | Image | | Character | Image | | Character | Image |
 |-----------|-------|-|-----------|-------|-|-------------|---------|
 | [zibra zubra zibralini](zibra%20zubra%20zibralini) | <img src="zibra zubra zibralini/zibra zubra zibralini (namu.wiki).webp" width="100"> | | | | | | |
+
+# License
+This is a fan-maintained reference collection. All characters and images belong to their original creators. Sources are credited where available (fandom.com, namu.wiki, ...etc). This is a non-commercial, educational resource for community reference only.
