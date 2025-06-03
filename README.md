@@ -18,8 +18,8 @@ This is a collection to restore all the Italian brainrot.
 | [cocofanto elefanto](cocofanto%20elefanto) | <img src="cocofanto elefanto/cocofanto elefanto (namu.wiki).webp" width="100"> | | [croco potato](croco%20potato) | <img src="croco potato/croco potato (fandom).webp" width="100"> | | | |
 
 ### F
-| Character | Image | | Character | Image | | Character | Image |
-|-----------|-------|-|-----------|-------|-|-------------|---------|
+| Character | Image | | Character | Image |
+|-----------|-------|-|-----------|-------|
 | [frigo camelo](frigo%20camelo) | <img src="frigo camelo/frigo camelo (namu.wiki).webp" width="100"> | | [frulli frulla](frulli%20frulla) | <img src="frulli frulla/frulli frulla (namu.wiki).webp" width="100"> | | | |
 
 ### G
@@ -30,38 +30,38 @@ This is a collection to restore all the Italian brainrot.
 | [graipussi medussi](graipussi%20medussi) | <img src="graipussi medussi/graipussi medussi (namu.wiki).webp" width="100"> | | | | | | |
 
 ### I
-| Character | Image | | Character | Image | | Character | Image |
-|-----------|-------|-|-----------|-------|-|-------------|---------|
-| [il cacto hipopotamo](il%20cacto%20hipopotamo) | <img src="il cacto hipopotamo/il cacto hipopotamo (namu.wiki).webp" width="100"> | | | | | | |
+| Character | Image |
+|-----------|-------|
+| [il cacto hipopotamo](il%20cacto%20hipopotamo) | <img src="il cacto hipopotamo/il cacto hipopotamo (namu.wiki).webp" width="100"> |
 
 ### L
-| Character | Image | | Character | Image | | Character | Image |
-|-----------|-------|-|-----------|-------|-|-------------|---------|
+| Character | Image | | Character | Image |
+|-----------|-------|-|-----------|-------|
 | [la vaca saturno saturnita](la%20vaca%20saturno%20saturnita) | <img src="la vaca saturno saturnita/la vaca saturno saturnita (namu.wiki).webp" width="100"> | | [lirilì larilà](lirilì%20larilà) | <img src="lirilì larilà/lirilì larilà (namu.wiki).webp" width="100"> | | | |
 
 ### M
-| Character | Image | | Character | Image | | Character | Image |
-|-----------|-------|-|-----------|-------|-|-------------|---------|
+| Character | Image |
+|-----------|-------|
 | [matteo lavacanita](matteo%20lavacanita) | <img src="matteo lavacanita/matteo lavacanita (namu.wiki).webp" width="100"> | | | | | | |
 
 ### O
-| Character | Image | | Character | Image | | Character | Image |
-|-----------|-------|-|-----------|-------|-|-------------|---------|
+| Character | Image |
+|-----------|-------|
 | [orangutini ananasini](orangutini%20ananasini) | <img src="orangutini ananasini/orangutini ananasini (namu.wiki).webp" width="100"> | | | | | | |
 
 ### P
-| Character | Image | | Character | Image | | Character | Image |
-|-----------|-------|-|-----------|-------|-|-------------|---------|
+| Character | Image |
+|-----------|-------|
 | [pot hotspot](pot%20hotspot) | <img src="pot hotspot/pot hotspot (namu.wiki).webp" width="100"> | | | | | | |
 
 ### R
-| Character | Image | | Character | Image | | Character | Image |
-|-----------|-------|-|-----------|-------|-|-------------|---------|
+| Character | Image | | Character | Image |
+|-----------|-------|-|-----------|-------|
 | [raccooni watermelunni](raccooni%20watermelunni) | <img src="raccooni watermelunni/raccooni watermelunni (namu.wiki).webp" width="100"> | | [rhino toasterino](rhino%20toasterino) | <img src="rhino toasterino/rhino toasterino (namu.wiki).webp" width="100"> | | | |
 
 ### S
-| Character | Image | | Character | Image | | Character | Image |
-|-----------|-------|-|-----------|-------|-|-------------|---------|
+| Character | Image |
+|-----------|-------|
 | [svinino bombondino](svinino%20bombondino) | <img src="svinino bombondino/svinino bombondino (namu.wiki).webp" width="100"> | | | | | | |
 
 ### T
@@ -73,13 +73,13 @@ This is a collection to restore all the Italian brainrot.
 | [tung tung tung sahur](tung%20tung%20tung%20sahur) | <img src="tung tung tung sahur/tung tung tung sahur (fandom).webp" width="100"> | | [tung tung tung tung tung tung tung tung tung assassino boneca](tung%20tung%20tung%20tung%20tung%20tung%20tung%20tung%20tung%20assassino%20boneca) | <img src="tung tung tung tung tung tung tung tung tung assassino boneca/tung tung tung tung tung tung tung tung tung assassino boneca (namu.wiki).webp" width="100"> | | | |
 
 ### U
-| Character | Image | | Character | Image | | Character | Image |
-|-----------|-------|-|-----------|-------|-|-------------|---------|
+| Character | Image |
+|-----------|-------|
 | [u din din din din dun ma din din din dun](u%20din%20din%20din%20din%20dun%20ma%20din%20din%20din%20dun) | <img src="u din din din din dun ma din din din dun/u din din din din dun ma din din din dun (namu.wiki).webp" width="100"> | | | | | | |
 
 ### Z
-| Character | Image | | Character | Image | | Character | Image |
-|-----------|-------|-|-----------|-------|-|-------------|---------|
+| Character | Image |
+|-----------|-------|
 | [zibra zubra zibralini](zibra%20zubra%20zibralini) | <img src="zibra zubra zibralini/zibra zubra zibralini (namu.wiki).webp" width="100"> | | | | | | |
 
 # License
